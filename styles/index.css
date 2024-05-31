@@ -4,11 +4,21 @@
 }
 
 h1{
-    text-align: center
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+div{
+    text-align:center
 }
 
 ul{
     list-style-type: none;
-    position: relative;
-    left: 36%
+    padding: 0;
+}
+
+li{
+    margin: 10px;
+    display: inline;
+
 }

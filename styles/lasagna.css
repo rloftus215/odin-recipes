@@ -9,8 +9,9 @@ h1, h2{
 }
 
 img{
-    position: relative;
-    left: 34%
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
 }
 
 p{
